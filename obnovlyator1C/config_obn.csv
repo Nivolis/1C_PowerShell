@@ -1,0 +1,2 @@
+ServerNameRAC;ServerName1C;BaseName;UserName;UserPass;UcCode;PathCfu;PathBackup;PathRac;LogFile;Path1C
+app:38312;app:8312;ut_demo_test_mp_dd;"""Администратор (ОрловАВ)""";"""""";"""123""";"""c:\tools\Backup1C\update1C\1Cv8.cfu""";c:\tools\Backup1C\;C:\Program Files\1cv8\8.3.12.1685\bin\rac.exe;c:\tools\Backup1C\log_obn.log;c:\Program Files\1cv8\8.3.12.1685\bin\1cv8.exe
